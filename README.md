@@ -11,3 +11,5 @@ employers. In this Nanodegree program you will test your ability to use a pre-tr
 
 In the sections below, you’ll find detailed descriptions of the projects, along with the course material that presents the skills required to complete them.
 
+## Course 1: Introduction to Python
+Start coding with Python, drawing upon libraries and automation scripts to solve complex problems quickly.
