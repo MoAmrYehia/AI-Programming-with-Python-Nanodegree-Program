@@ -13,3 +13,7 @@ In the sections below, you’ll find detailed descriptions of the projects, alon
 
 ## Course 1: Introduction to Python
 Start coding with Python, drawing upon libraries and automation scripts to solve complex problems quickly.
+
+| Why Python Programming | Data Types and Operators | Control Flow |
+| ------------- | ------------- | ------------- |
+| **Functions**  | **Scripting**  | **Classes** |
