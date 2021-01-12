@@ -1,4 +1,4 @@
-# AI-Programming-with-Python-Nanodegree-Program
+# AI Programming with Python Nanodegree Program
 
 In this repo, I will cover all aspects and give a feedback for the AI Programming with Python Nanodegree from Udacity.
 
