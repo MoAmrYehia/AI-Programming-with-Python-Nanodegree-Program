@@ -31,3 +31,6 @@ Learn the foundational linear algebra you need for AI success: vectors, linear t
 | Introduction | Vectors | Linear Combination |
 | :-------------: | :-------------: | :-------------: |
 | **Linear Transformation and Matrices**  | **Linear Algebra in Neural Networks**  | **Labs** |
+
+## Course 4: Calculus Essentials
+Learn the foundations of calculus to understand how to train a neural network: plotting, derivatives, the chain rule, and more. See how these mathematical skills visually come to life with a neural network example.
