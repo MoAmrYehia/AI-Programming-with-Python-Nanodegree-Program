@@ -24,3 +24,6 @@ Learn how to use all the key tools for working with data in Python: Jupyter Note
 | Anaconda | Jupyter Notebooks | Numpy Basics |
 | :-------------: | :-------------: | :-------------: |
 | **Pandas Basics**  | **Matplotlib Basics**  | ----- |
+
+## Course 3: Linear Algebra Essentials
+Learn the foundational linear algebra you need for AI success: vectors, linear transformations, and matrices—as well as the linear algebra behind neural networks.
