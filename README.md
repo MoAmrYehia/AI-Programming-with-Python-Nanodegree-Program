@@ -27,3 +27,7 @@ Learn how to use all the key tools for working with data in Python: Jupyter Note
 
 ## Course 3: Linear Algebra Essentials
 Learn the foundational linear algebra you need for AI success: vectors, linear transformations, and matrices—as well as the linear algebra behind neural networks.
+
+| Introduction | Vectors | Linear Combination |
+| :-------------: | :-------------: | :-------------: |
+| **Linear Transformation and Matrices**  | **Linear Algebra in Neural Networks**  | **Labs** |
