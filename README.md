@@ -17,3 +17,10 @@ Start coding with Python, drawing upon libraries and automation scripts to solve
 | Why Python Programming | Data Types and Operators | Control Flow |
 | ------------- | ------------- | ------------- |
 | **Functions**  | **Scripting**  | **Classes** |
+
+## Course 2: Anaconda, Jupyter Notebook, NumPy, Pandas, and Matplotlib
+Learn how to use all the key tools for working with data in Python: Jupyter Notebooks, NumPy, Anaconda, Pandas, and Matplotlib.
+
+| Anaconda | Jupyter Notebooks | Numpy Basics |
+| ------------- | ------------- | ------------- |
+| **Pandas Basics**  | **Matplotlib Basics**  | ----- |
