@@ -37,3 +37,6 @@ Learn the foundations of calculus to understand how to train a neural network: p
 
 ## Course 5: Neural Networks
 Gain a solid foundation in the hottest fields in AI: neural networks, deep learning, and PyTorch.
+
+
+> adding project 2
